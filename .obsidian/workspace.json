@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "66871688e1edab63",
+    "type": "split",
+    "children": [
+      {
+        "id": "aefc7ee0300bee9a",
+        "type": "tabs",
+        "dimension": 59.01015228426396,
+        "children": [
+          {
+            "id": "cd3c68fdc2bf1e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenges/Spherical 3D Mini-Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f5e68719e89ee967",
+        "type": "tabs",
+        "dimension": 40.98984771573604,
+        "children": [
+          {
+            "id": "004565483eaaaf77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9359d8a10ae37c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f7ab6ba54a2ead7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc82e24d1f53d0c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2ff76bb39fe356c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08a2d7b086664c16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d48f488a409a04d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3246592a566a94cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3bd9e18b241f66a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Challenges/Spherical 3D Mini-Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2923e41cecd61350",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Challenges/Spherical 3D Mini-Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4806e1a5950adf41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92d6cead02782dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Challenges/Spherical 3D Mini-Map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd3c68fdc2bf1e5f",
+  "lastOpenFiles": [
+    "Images/Homeworld1Minimap.png",
+    "Challenges/Spherical 3D Mini-Map.md",
+    "Theory Reference/Mathematics/Linear Algebra.md",
+    "Images/EliteDangerousMinimap.png",
+    "Images",
+    "New folder",
+    "README.md",
+    "Vector Math.md",
+    "Theory Reference/Mathematics/Vector Math.md",
+    "Mathematics.md",
+    "Theory Reference/Mathematics",
+    "Challenges",
+    "Theory Reference"
+  ]
+}
