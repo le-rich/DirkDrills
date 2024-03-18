@@ -14,6 +14,8 @@ Your final solution should include:
 - A scene that, when played, begins playing a cinematic sequence instantly
 - Upon the sequence finishing, the camera should not cut from the cinematic, but instead transition to where it would be during gameplay
 - The game should be controllable and playable right when the sequence ends with no cut, obvious reloading of state or reset of animation on the playable character
+- You should not be able to control the player in any way during the cinematic
+- BONUS: Holding a button will skip to the end of the cinematic, but does not trigger a load screen and seamlessly blends out of the cinematic
 - BONUS: The controllable character is humanoid
 - **ULTRA BONUS**: Somewhere in your solution, you're able to transition from gameplay to cinematic seamlessly. (For example, Red Dead Redemption 2 Mission Starts)
 
