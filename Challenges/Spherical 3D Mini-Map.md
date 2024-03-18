@@ -30,4 +30,4 @@ These are just to demonstrate the problem space, feel free to bend the rules and
 - There exists some player object with some 3D space controls
 - Some object representing the Mini-Map exists and has a reference to the Player
 - The Mini-Map updates a collection of entities around the player in a certain radius
-- The Mini-Map draws and renders 
+- The Mini-Map draws and renders
