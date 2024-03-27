@@ -6,7 +6,7 @@ Difficulty: Easy
 
 You got a classic case of asteroids in your game
 
-The challenge is a straightforward test of your math skills.
+The challenge is a straightforward test of your math skills. Your goal is to predict the collision positions, and at what time, of all asteroids in your game.
 
 - Create a generation system that populates your game world with N asteroids, N being a number of your choice. The system can exist in 3D or 2D
 - There exist controls for regenerating the system, which clears the simulation space, and regenerates all asteroids. The system begins paused. 
