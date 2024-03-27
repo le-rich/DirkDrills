@@ -1,5 +1,5 @@
 
-Specific Theory: [[Animation]], Scripting, [[Resource Loading]]
+Specific Theory: [[Animation]], [[Scripting]], [[Resource Loading]]
 Difficulty: Medium
 
 # The Challenge
